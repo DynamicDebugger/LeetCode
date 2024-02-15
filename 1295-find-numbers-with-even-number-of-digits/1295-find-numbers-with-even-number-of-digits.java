@@ -4,13 +4,14 @@ class Solution {
         
         for(int num : nums){
             
-            if(countAndCheckEvenDigits(num))
+            if(isEvenDigits(num))
                 countEvenDigits++;
         }
         
         return countEvenDigits;
     }
-    static boolean countAndCheckEvenDigits(int n){
+    
+    /*static boolean countAndCheckEvenDigits(int n){
         
         int count = 0 ;
         
@@ -24,5 +25,9 @@ class Solution {
             return true;
         else 
             return false;
+    }*/
+    
+    static boolean isEvenDigits(int n){
+        return (int)Math.log10(Math.abs(n)) % 2 == 1;
     }
 }

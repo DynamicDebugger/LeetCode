@@ -12,11 +12,8 @@ class Solution {
         
         int peek = peekOfMountain(mountainArr);
         
-        int elementIndex = binarySearch(mountainArr, 0, peek, target, true);
+        int elementIndex = (binarySearch(mountainArr, 0, peek, target, true)  == -1) ? binarySearch(mountainArr, peek, mountainArr.length() - 1, target, false) : binarySearch(mountainArr, 0, peek, target, true);
         
-        if(elementIndex == -1){
-            elementIndex = binarySearch(mountainArr, peek, mountainArr.length() - 1, target, false);
-        }
         
         return elementIndex;
     }

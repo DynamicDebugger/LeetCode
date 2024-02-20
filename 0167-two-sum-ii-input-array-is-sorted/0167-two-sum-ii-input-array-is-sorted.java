@@ -1,4 +1,45 @@
 class Solution {
+    
+    public int[] twoSum(int[] arr, int target) {
+        int left = 0;
+        int right = arr.length - 1;
+
+        while (left < right) {
+            int currentSum = arr[left] + arr[right];
+
+            if (currentSum == target) {
+                return new int[]{left + 1, right + 1};  // Return 1-based indices
+            } else if (currentSum < target) {
+                left++;
+            } else {
+                right--;
+            }
+        }
+
+        return new int[2];  // In case no solution is found
+    }
+    
+    
+    /*** optmial for unsortated array
+    public int[] twoSum(int[] arr, int target) {
+
+        Map<Integer,Integer> index = new HashMap<>();
+        
+        for(int i = 0 ; i < arr.length ; i++){
+            int s = target - arr[i];
+            
+            if(index.containsKey(s)){
+                return new int[]{index.get(s),i+1};
+            }
+            
+            index.put(arr[i],i+1);
+        }
+        
+        return new int[2]
+    }
+    ***/
+    //Non-optimal solution o(n.logn)
+    /**
     public int[] twoSum(int[] arr, int target) {
         int index[] = new int[2];
         for(int i=0; i < arr.length ; i++){
@@ -37,4 +78,6 @@ class Solution {
         
         return res;
     }
+    
+    **/
 }

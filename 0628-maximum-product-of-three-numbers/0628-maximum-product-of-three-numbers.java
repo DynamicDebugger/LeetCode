@@ -4,18 +4,8 @@ class Solution {
         System.out.println(Arrays.toString(nums));
 
         int n = nums.length;
-        int p = 1;
         int l = nums[0] * nums[1] * nums[n-1];
         int r = nums[n-1] * nums[n-2] * nums[n-3];
-        
-        // if(l > r){
-        //     p = l * nums[n-1];
-        //     System.out.println(l);
-        // }else{
-        //     p = r * nums[n-3];
-        //     System.out.println(r);
-        // }
-	    // System.out.println(p);
 
         return Math.max(l,r);
     }

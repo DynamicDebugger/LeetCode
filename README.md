@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ishhookayy/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ishhookayy/LeetCode/tree/master/0136-single-number) |
 # Simulation
 |  |
 | ------- |
@@ -32,3 +33,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishhookayy/LeetCode/tree/master/0002-add-two-numbers) |
+# Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ishhookayy/LeetCode/tree/master/0136-single-number) |

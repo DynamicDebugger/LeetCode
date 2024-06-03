@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ishhookayy/LeetCode/tree/master/0067-add-binary) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ishhookayy/LeetCode/tree/master/0136-single-number) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Stack
 |  |
 | ------- |
@@ -60,3 +62,15 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/ishhookayy/LeetCode/tree/master/0338-counting-bits) |
+# Hash Table
+|  |
+| ------- |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+# Sorting
+|  |
+| ------- |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |

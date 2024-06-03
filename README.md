@@ -7,6 +7,7 @@
 | [0067-add-binary](https://github.com/ishhookayy/LeetCode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/ishhookayy/LeetCode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/ishhookayy/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/ishhookayy/LeetCode/tree/master/3379-score-of-a-string) |
 # Math
 |  |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ishhookayy/LeetCode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/ishhookayy/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Linked List
 |  |
 | ------- |
@@ -44,3 +46,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/ishhookayy/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |

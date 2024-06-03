@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ishhookayy/LeetCode/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/ishhookayy/LeetCode/tree/master/0344-reverse-string) |
 | [3379-score-of-a-string](https://github.com/ishhookayy/LeetCode/tree/master/3379-score-of-a-string) |
 # Math
@@ -12,6 +13,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishhookayy/LeetCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ishhookayy/LeetCode/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -33,7 +35,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishhookayy/LeetCode/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |
 # Array
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ishhookayy/LeetCode/tree/master/0136-single-number) |
+# Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |

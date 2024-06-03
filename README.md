@@ -20,6 +20,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ishhookayy/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ishhookayy/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ishhookayy/LeetCode/tree/master/0191-number-of-1-bits) |
 # Simulation
 |  |
 | ------- |
@@ -50,3 +51,7 @@
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ishhookayy/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ishhookayy/LeetCode/tree/master/0191-number-of-1-bits) |

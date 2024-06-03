@@ -1,20 +1,14 @@
 class Solution {
     public int[] countBits(int n) {
-        
-        int[] arr = new int[n+1];
-        
-        for(int i = 0 ; i <= n ; i++){
-            arr[i] = noOfSetBitsN(i);
+        int[] dp = new int[n+1];
+        dp[0] = 0;
+        for(int i = 1 ; i <= n ; i++){
+            if((i & 1) == 1){
+                dp[i] = dp[i/2] + 1;
+            }else{
+                dp[i] = dp[i/2];
+            }
         }
-        return arr;
-    }
-
-    public int noOfSetBitsN(int n){
-        int count = 0;
-        while(n > 0){
-            count++;
-            n = n & (n - 1);
-        }
-        return count;
+        return dp;
     }
 }

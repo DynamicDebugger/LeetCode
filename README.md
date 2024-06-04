@@ -8,6 +8,7 @@
 | [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/ishhookayy/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/ishhookayy/LeetCode/tree/master/0409-longest-palindrome) |
+| [0961-long-pressed-name](https://github.com/ishhookayy/LeetCode/tree/master/0961-long-pressed-name) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ishhookayy/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/ishhookayy/LeetCode/tree/master/3379-score-of-a-string) |
 # Math
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ishhookayy/LeetCode/tree/master/0344-reverse-string) |
+| [0961-long-pressed-name](https://github.com/ishhookayy/LeetCode/tree/master/0961-long-pressed-name) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ishhookayy/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Linked List
 |  |

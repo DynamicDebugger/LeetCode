@@ -6,6 +6,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ishhookayy/LeetCode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/ishhookayy/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ishhookayy/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/ishhookayy/LeetCode/tree/master/0409-longest-palindrome) |
 | [0961-long-pressed-name](https://github.com/ishhookayy/LeetCode/tree/master/0961-long-pressed-name) |
@@ -69,11 +70,13 @@
 # Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ishhookayy/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/ishhookayy/LeetCode/tree/master/0409-longest-palindrome) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ishhookayy/LeetCode/tree/master/0242-valid-anagram) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Heap (Priority Queue)
 |  |

@@ -20,6 +20,7 @@
 | [0002-add-two-numbers](https://github.com/ishhookayy/LeetCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ishhookayy/LeetCode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |
+| [0441-arranging-coins](https://github.com/ishhookayy/LeetCode/tree/master/0441-arranging-coins) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -89,3 +90,7 @@
 |  |
 | ------- |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+# Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/ishhookayy/LeetCode/tree/master/0441-arranging-coins) |

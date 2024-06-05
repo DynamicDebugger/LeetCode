@@ -1,38 +1,19 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> anagrams = new ArrayList<>();
+        if (strs == null || strs.length == 0) return new ArrayList<>();
+        Map<String, List<String>> map = new HashMap<>();
+        
+        for(String str:strs){
+            char[] charArr = str.toCharArray();
+            Arrays.sort(charArr);
+            String sorted = new String(charArr);
 
-        for(int i = 0 ; i < strs.length ; i++){
-            List<String> group = new ArrayList<>();
-            String s = strs[i];
-            if(s == null) continue;
-            group.add(s);
-            for(int j = i + 1 ; j < strs.length ; j++){
-                String t = strs[j];
-                if(s != null && t != null && isAnagram(s,t)){
-                    group.add(t);
-                    strs[j] = null;
-                }
-                strs[i] = null;
+            if(!map.containsKey(sorted)){
+                map.put(sorted,new ArrayList<>());
             }
-            anagrams.add(group);
-
-        }
-        return anagrams;
-    }
-    public boolean isAnagram(String s, String t) {
-
-        if(s.length() != t.length())    return false;
-
-        int[] count = new int[26];
-        for(int i = 0 ; i < s.length() ;i++){
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
+            map.get(sorted).add(str);
         }
 
-        for(int n: count){
-            if(n != 0) return false;
-        }
-        return true;
+        return new ArrayList<>(map.values());
     }
 }

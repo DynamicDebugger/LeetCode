@@ -4,6 +4,7 @@
 # String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ishhookayy/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ishhookayy/LeetCode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ishhookayy/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ishhookayy/LeetCode/tree/master/0242-valid-anagram) |
@@ -48,6 +49,7 @@
 # Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ishhookayy/LeetCode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/ishhookayy/LeetCode/tree/master/0136-single-number) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Stack
@@ -70,12 +72,14 @@
 # Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ishhookayy/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ishhookayy/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/ishhookayy/LeetCode/tree/master/0409-longest-palindrome) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ishhookayy/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ishhookayy/LeetCode/tree/master/0242-valid-anagram) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Heap (Priority Queue)

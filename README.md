@@ -11,6 +11,7 @@
 | [0344-reverse-string](https://github.com/ishhookayy/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/ishhookayy/LeetCode/tree/master/0409-longest-palindrome) |
 | [0961-long-pressed-name](https://github.com/ishhookayy/LeetCode/tree/master/0961-long-pressed-name) |
+| [1044-find-common-characters](https://github.com/ishhookayy/LeetCode/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ishhookayy/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/ishhookayy/LeetCode/tree/master/3379-score-of-a-string) |
 # Math
@@ -51,6 +52,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ishhookayy/LeetCode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/ishhookayy/LeetCode/tree/master/0136-single-number) |
+| [1044-find-common-characters](https://github.com/ishhookayy/LeetCode/tree/master/1044-find-common-characters) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Stack
 |  |
@@ -75,6 +77,7 @@
 | [0049-group-anagrams](https://github.com/ishhookayy/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ishhookayy/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/ishhookayy/LeetCode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/ishhookayy/LeetCode/tree/master/1044-find-common-characters) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Sorting
 |  |

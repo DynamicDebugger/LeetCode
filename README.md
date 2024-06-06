@@ -55,6 +55,7 @@
 | [0136-single-number](https://github.com/ishhookayy/LeetCode/tree/master/0136-single-number) |
 | [0876-hand-of-straights](https://github.com/ishhookayy/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/ishhookayy/LeetCode/tree/master/1044-find-common-characters) |
+| [1646-kth-missing-positive-number](https://github.com/ishhookayy/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ishhookayy/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Stack
 |  |
@@ -98,3 +99,4 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/ishhookayy/LeetCode/tree/master/0441-arranging-coins) |
+| [1646-kth-missing-positive-number](https://github.com/ishhookayy/LeetCode/tree/master/1646-kth-missing-positive-number) |

@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishhookayy/LeetCode/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishhookayy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +126,12 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishhookayy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishhookayy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

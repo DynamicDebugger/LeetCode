@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishhookayy/LeetCode/tree/master/0015-3sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +117,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishhookayy/LeetCode/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->

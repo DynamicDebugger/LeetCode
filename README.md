@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishhookayy/LeetCode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ishhookayy/LeetCode/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -139,6 +140,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ishhookayy/LeetCode/tree/master/0039-combination-sum) |
 ## Divide and Conquer
 |  |
@@ -156,4 +158,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

@@ -12,23 +12,18 @@ class Solution {
         return LCA(root, p, q);
     }
     private TreeNode LCA(TreeNode node, TreeNode p, TreeNode q){
-        if(node == null)
-            return node;
         
-        if(node.val == p.val || node.val == q.val)
+        if(node == null || node.val == p.val || node.val == q.val)
             return node;
 
         TreeNode l = LCA(node.left, p, q);
         TreeNode r = LCA(node.right, p, q);
-
-        if(l != null & r != null){
-            return node;
-        }else if(l != null){
-            return l;
-        }else if(r != null){
+        if(l == null){
             return r;
+        }else if(r == null){
+            return l;
         }else{
-            return null;
+            return node;
         }
     }
 }

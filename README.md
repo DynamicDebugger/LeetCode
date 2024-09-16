@@ -144,6 +144,7 @@
 | [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ishhookayy/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ishhookayy/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ishhookayy/LeetCode/tree/master/0052-n-queens-ii) |
 ## Divide and Conquer
 |  |
 | ------- |

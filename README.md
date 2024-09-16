@@ -133,6 +133,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ishhookayy/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishhookayy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -181,4 +182,12 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ishhookayy/LeetCode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ishhookayy/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->

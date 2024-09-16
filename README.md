@@ -135,6 +135,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ishhookayy/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishhookayy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
 ## String Matching
 |  |
 | ------- |
@@ -186,8 +187,14 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ishhookayy/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ishhookayy/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

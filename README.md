@@ -167,6 +167,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishhookayy/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -191,6 +192,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishhookayy/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishhookayy/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -262,6 +265,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ishhookayy/LeetCode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |

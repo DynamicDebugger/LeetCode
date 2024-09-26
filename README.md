@@ -115,6 +115,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/ishhookayy/LeetCode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,12 +213,14 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/ishhookayy/LeetCode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/ishhookayy/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishhookayy/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -266,10 +269,12 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ishhookayy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ishhookayy/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ishhookayy/LeetCode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ishhookayy/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ishhookayy/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |

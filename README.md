@@ -243,6 +243,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ishhookayy/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ishhookayy/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ishhookayy/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ishhookayy/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/ishhookayy/LeetCode/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ishhookayy/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design

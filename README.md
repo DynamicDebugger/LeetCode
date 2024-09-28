@@ -124,6 +124,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ishhookayy/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishhookayy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/ishhookayy/LeetCode/tree/master/0061-rotate-list) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ishhookayy/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ishhookayy/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/ishhookayy/LeetCode/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/ishhookayy/LeetCode/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ishhookayy/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design

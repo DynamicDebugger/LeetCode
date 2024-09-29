@@ -239,6 +239,7 @@
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
 | [1285-balance-a-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ishhookayy/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ishhookayy/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ishhookayy/LeetCode/tree/master/0547-number-of-provinces) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ishhookayy/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -320,4 +322,5 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ishhookayy/LeetCode/tree/master/0207-course-schedule) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ishhookayy/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->

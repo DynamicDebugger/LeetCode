@@ -159,6 +159,7 @@
 | [0051-n-queens](https://github.com/ishhookayy/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ishhookayy/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ishhookayy/LeetCode/tree/master/0077-combinations) |
+| [0813-all-paths-from-source-to-target](https://github.com/ishhookayy/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | [0547-number-of-provinces](https://github.com/ishhookayy/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/ishhookayy/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1285-balance-a-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ishhookayy/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Dynamic Programming
@@ -295,6 +297,7 @@
 | [0547-number-of-provinces](https://github.com/ishhookayy/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/ishhookayy/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/ishhookayy/LeetCode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -308,6 +311,7 @@
 | [0207-course-schedule](https://github.com/ishhookayy/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ishhookayy/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ishhookayy/LeetCode/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/ishhookayy/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ishhookayy/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Bucket Sort
 |  |

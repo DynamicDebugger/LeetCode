@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ishhookayy/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ishhookayy/LeetCode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
@@ -259,6 +260,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ishhookayy/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ishhookayy/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ishhookayy/LeetCode/tree/master/0060-permutation-sequence) |
 ## Greedy
 |  |
 | ------- |

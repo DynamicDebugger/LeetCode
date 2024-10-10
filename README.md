@@ -111,6 +111,7 @@
 | [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ishhookayy/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ishhookayy/LeetCode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/ishhookayy/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -150,6 +151,7 @@
 | [0022-generate-parentheses](https://github.com/ishhookayy/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishhookayy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/ishhookayy/LeetCode/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0051-n-queens](https://github.com/ishhookayy/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ishhookayy/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ishhookayy/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/ishhookayy/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/ishhookayy/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/ishhookayy/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Divide and Conquer
@@ -226,6 +229,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/ishhookayy/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ishhookayy/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |

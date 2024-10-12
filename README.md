@@ -139,6 +139,7 @@
 | [0050-powx-n](https://github.com/ishhookayy/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ishhookayy/LeetCode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/ishhookayy/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/ishhookayy/LeetCode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
@@ -271,6 +272,7 @@
 | [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ishhookayy/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ishhookayy/LeetCode/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/ishhookayy/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/ishhookayy/LeetCode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
@@ -354,4 +356,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/ishhookayy/LeetCode/tree/master/0744-network-delay-time) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ishhookayy/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

@@ -111,6 +111,7 @@
 | [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ishhookayy/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ishhookayy/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ishhookayy/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -168,6 +169,7 @@
 | [0051-n-queens](https://github.com/ishhookayy/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ishhookayy/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ishhookayy/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ishhookayy/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/ishhookayy/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/ishhookayy/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -360,6 +362,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ishhookayy/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ishhookayy/LeetCode/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ishhookayy/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |

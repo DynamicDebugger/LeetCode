@@ -143,6 +143,7 @@
 | [0060-permutation-sequence](https://github.com/ishhookayy/LeetCode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ishhookayy/LeetCode/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/ishhookayy/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2050-count-good-numbers](https://github.com/ishhookayy/LeetCode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
@@ -369,5 +370,6 @@
 | [0191-number-of-1-bits](https://github.com/ishhookayy/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ishhookayy/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ishhookayy/LeetCode/tree/master/0260-single-number-iii) |
+| [0371-sum-of-two-integers](https://github.com/ishhookayy/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ishhookayy/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->

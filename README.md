@@ -119,6 +119,7 @@
 | [0137-single-number-ii](https://github.com/ishhookayy/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/ishhookayy/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ishhookayy/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/ishhookayy/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/ishhookayy/LeetCode/tree/master/0260-single-number-iii) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
@@ -142,6 +143,7 @@
 | [0050-powx-n](https://github.com/ishhookayy/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ishhookayy/LeetCode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/ishhookayy/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ishhookayy/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/ishhookayy/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2050-count-good-numbers](https://github.com/ishhookayy/LeetCode/tree/master/2050-count-good-numbers) |
@@ -372,4 +374,12 @@
 | [0260-single-number-iii](https://github.com/ishhookayy/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/ishhookayy/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ishhookayy/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ishhookayy/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ishhookayy/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

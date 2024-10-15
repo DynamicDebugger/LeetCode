@@ -126,6 +126,7 @@
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
 | [0948-sort-an-array](https://github.com/ishhookayy/LeetCode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/ishhookayy/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ishhookayy/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1285-balance-a-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -382,4 +384,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ishhookayy/LeetCode/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

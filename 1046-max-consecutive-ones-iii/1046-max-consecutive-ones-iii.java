@@ -13,9 +13,8 @@ class Solution {
                 }
                 l++;
             }
-            max = Math.max(max, r - l + 1);
+            if(c <= k)max = Math.max(max, r - l + 1);
             r++;
-
         }
         return max;
     }

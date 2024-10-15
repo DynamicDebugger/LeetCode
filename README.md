@@ -124,6 +124,7 @@
 | [0260-single-number-iii](https://github.com/ishhookayy/LeetCode/tree/master/0260-single-number-iii) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
+| [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ishhookayy/LeetCode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/ishhookayy/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -240,6 +241,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/ishhookayy/LeetCode/tree/master/0146-lru-cache) |
+| [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
@@ -388,6 +390,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishhookayy/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum

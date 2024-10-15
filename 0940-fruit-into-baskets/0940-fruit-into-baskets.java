@@ -8,7 +8,7 @@ class Solution {
             int tree = fruits[r];
             map.put(tree, map.getOrDefault(tree, 0) + 1);   
             //shrink the window
-            if(map.size() > 2){
+            while(map.size() > 2){
                 int tr = fruits[l];
                 int val = map.get(tr);
                 map.put(tr, val - 1);

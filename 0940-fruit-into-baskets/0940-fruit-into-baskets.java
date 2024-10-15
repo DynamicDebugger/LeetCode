@@ -15,7 +15,7 @@ class Solution {
                 if(map.get(tr) == 0) map.remove(tr);
                 l++;
             }
-            max = Math.max(max, r - l + 1);
+            if(map.size() <= 2)max = Math.max(max, r - l + 1);
             r++;
         }
         return max;

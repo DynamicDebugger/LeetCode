@@ -7,15 +7,15 @@ class Solution {
                 c++;
             }
             
-            while(c > k){
+            if(c > k){
                 if(nums[l] == 0){
                     c--;
                 }
                 l++;
             }
-
             max = Math.max(max, r - l + 1);
             r++;
+
         }
         return max;
     }

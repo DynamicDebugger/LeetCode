@@ -163,6 +163,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishhookayy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/ishhookayy/LeetCode/tree/master/0079-word-search) |
+| [0424-longest-repeating-character-replacement](https://github.com/ishhookayy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishhookayy/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String Matching
 |  |
@@ -242,6 +243,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/ishhookayy/LeetCode/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/ishhookayy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishhookayy/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Matrix
@@ -392,6 +394,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ishhookayy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishhookayy/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |

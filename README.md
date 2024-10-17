@@ -130,6 +130,7 @@
 | [1036-rotting-oranges](https://github.com/ishhookayy/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishhookayy/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ishhookayy/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1285-balance-a-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ishhookayy/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -402,10 +404,12 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishhookayy/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishhookayy/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ishhookayy/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/ishhookayy/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishhookayy/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ishhookayy/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->

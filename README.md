@@ -168,6 +168,7 @@
 | [0022-generate-parentheses](https://github.com/ishhookayy/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishhookayy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
+| [0076-minimum-window-substring](https://github.com/ishhookayy/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ishhookayy/LeetCode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishhookayy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishhookayy/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishhookayy/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ishhookayy/LeetCode/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/ishhookayy/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishhookayy/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/ishhookayy/LeetCode/tree/master/0146-lru-cache) |
@@ -406,6 +408,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ishhookayy/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishhookayy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ishhookayy/LeetCode/tree/master/0966-binary-subarrays-with-sum) |

@@ -150,6 +150,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/ishhookayy/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ishhookayy/LeetCode/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ishhookayy/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ishhookayy/LeetCode/tree/master/0231-power-of-two) |
@@ -293,6 +294,7 @@
 | [0010-regular-expression-matching](https://github.com/ishhookayy/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ishhookayy/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Recursion
 |  |
@@ -427,4 +429,8 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/ishhookayy/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishhookayy/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishhookayy/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

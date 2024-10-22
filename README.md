@@ -153,6 +153,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/ishhookayy/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ishhookayy/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/ishhookayy/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishhookayy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ishhookayy/LeetCode/tree/master/0204-count-primes) |
@@ -297,6 +298,7 @@
 | [0010-regular-expression-matching](https://github.com/ishhookayy/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ishhookayy/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/ishhookayy/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ishhookayy/LeetCode/tree/master/0198-house-robber) |
@@ -448,4 +450,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ishhookayy/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ishhookayy/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -126,6 +126,7 @@
 | [0239-sliding-window-maximum](https://github.com/ishhookayy/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ishhookayy/LeetCode/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/ishhookayy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/ishhookayy/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ishhookayy/LeetCode/tree/master/0044-wildcard-matching) |
+| [0624-maximum-distance-in-arrays](https://github.com/ishhookayy/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1285-balance-a-binary-search-tree](https://github.com/ishhookayy/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Linked List
 |  |

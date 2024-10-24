@@ -1,5 +1,35 @@
 class Solution {
     public int minFallingPathSum(int[][] grid) {
+        
+        int n = grid.length;
+        int[] prev = new int[n];
+        int minSum = Integer.MAX_VALUE;
+
+        for(int row = 0 ; row < n ; row++){
+
+            int[] cur = new int[n];
+            for(int col = 0 ; col < n ; col++){
+                
+                if(row == 0) cur[col] = grid[row][col];
+                else{
+                    int min = Integer.MAX_VALUE;
+                    for(int i = 0 ; i < n ; i++){
+                        if(i != col) min = Math.min(min, prev[i]);
+                    } 
+                    cur[col]= grid[row][col] + min;                   
+                }
+            }
+
+            prev = cur;
+        }
+
+        for(int i = 0 ; i < n ; i++) minSum = Math.min(minSum, prev[i]);
+        return minSum;
+    }
+}
+
+/*  MEMEOIZATION
+    public int minFallingPathSum(int[][] grid) {
         int n = grid.length;
         int minSum = Integer.MAX_VALUE;
         int[][] dp = new int[n][n];
@@ -24,5 +54,4 @@ class Solution {
 
         return dp[row][col] = path[row][col] + min;
     }
-
-}
+*/

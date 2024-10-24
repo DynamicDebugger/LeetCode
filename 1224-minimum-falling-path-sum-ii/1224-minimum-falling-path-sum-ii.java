@@ -5,26 +5,24 @@ class Solution {
         int[][] dp = new int[n][n];
         for(int[] r: dp) Arrays.fill(r, 100);
         for (int col = 0; col < n; col++) {
-            minSum = Math.min(minSum, findMinPath(grid, n - 1, col, dp));
+            minSum = Math.min(minSum, pathSum(grid, n - 1, col, dp));
         }
         
         return minSum;
     }
     
-    private int findMinPath(int[][] grid, int row, int col, int[][] dp) {
-        if (row == 0) {
-            return grid[row][col];
-        }
-        
+
+    private int pathSum(int[][] path, int row, int col, int[][] dp){
+        if(row == 0) return path[row][col];
+
         if(dp[row][col] != 100) return dp[row][col];
-        int minPrevRowSum = Integer.MAX_VALUE;
-        
-        for (int prevCol = 0; prevCol < grid.length; prevCol++) {
-            if (prevCol != col) {
-                minPrevRowSum = Math.min(minPrevRowSum, findMinPath(grid, row - 1, prevCol, dp));
-            }
+
+        int min = Integer.MAX_VALUE;
+        for(int i = 0 ; i < path.length ; i++){
+            if(i != col) min = Math.min(min, pathSum(path, row - 1, i, dp));
         }
-        
-        return dp[row][col] = grid[row][col] + minPrevRowSum;
+
+        return dp[row][col] = path[row][col] + min;
     }
+
 }

@@ -138,6 +138,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/ishhookayy/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/ishhookayy/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/ishhookayy/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ishhookayy/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishhookayy/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishhookayy/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -280,6 +281,7 @@
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ishhookayy/LeetCode/tree/master/1036-rotting-oranges) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/ishhookayy/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | [0198-house-robber](https://github.com/ishhookayy/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ishhookayy/LeetCode/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/ishhookayy/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 ## Recursion
 |  |
 | ------- |

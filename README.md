@@ -134,6 +134,7 @@
 | [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ishhookayy/LeetCode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ishhookayy/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ishhookayy/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/ishhookayy/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ishhookayy/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -277,6 +278,7 @@
 | [0200-number-of-islands](https://github.com/ishhookayy/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ishhookayy/LeetCode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
@@ -310,6 +312,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ishhookayy/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ishhookayy/LeetCode/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Recursion
 |  |
 | ------- |

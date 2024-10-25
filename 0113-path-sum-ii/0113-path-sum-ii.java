@@ -34,10 +34,10 @@ class Solution {
         //left
         ds.add(node.val);
         pathSum(node.left, target - node.val, ds, ans);
-        ds.remove(ds.size() - 1);
+        // ds.remove(ds.size() - 1);
 
         //right
-        ds.add(node.val);
+        // ds.add(node.val);
         pathSum(node.right, target - node.val, ds, ans);
         ds.remove(ds.size() - 1);
     }

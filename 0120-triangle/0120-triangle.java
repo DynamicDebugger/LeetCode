@@ -1,5 +1,23 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
+        
+        int n = triangle.size();
+        int[][] dp = new int[n][n];
+
+        for(int j = n - 1 ; j >= 0 ; j--){
+            dp[n - 1][j] = triangle.get(n - 1).get(j);
+        }
+
+        for(int i = n - 2 ; i >= 0 ; i--){
+            for(int j = i ; j >= 0 ; j--){
+                dp[i][j] = triangle.get(i).get(j) + Math.min(dp[i + 1][j], dp[i + 1][j + 1]);
+            }
+        }
+        return dp[0][0];
+    }
+}
+/*
+    public int minimumTotal(List<List<Integer>> triangle) {
         int m = triangle.size();
         int n = triangle.get(m - 1).size();
         
@@ -24,4 +42,4 @@ class Solution {
         
         return dp[i][j] = path.get(i).get(j) + Math.min(f, s);
     }
-}
+*/

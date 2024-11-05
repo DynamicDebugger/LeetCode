@@ -1,52 +1,33 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int n = nums.length;
-        int totalSum = 0;
-        
-        // Calculate total sum of the array
-        for (int num : nums) {
-            totalSum += num;
-        }
-        
-        // If total sum is odd, partitioning into two equal subsets is impossible
-        if (totalSum % 2 != 0) {
-            return false;
-        }
-        
-        int target = totalSum / 2;
-        
-        // Initialize a 1D dp array
-        boolean[] prev = new boolean[target + 1];
-        prev[0] = true; // A sum of 0 is always achievable (base case)
-        
-        // Initialize the first element if it’s within bounds
+        int n = nums.length, target = 0;
+        for(int i = 0 ; i < n ; i++) target += nums[i];
+        if(target % 2 == 1) return false;
+        target /= 2;
+        boolean[] prev = new boolean[target+ 1];
+        prev[0]=true;
+        // Initialize the first element
         if (nums[0] <= target) {
             prev[nums[0]] = true;
         }
-        
-        // Fill the DP array iteratively
-        for (int ind = 1; ind < n; ind++) {
-            boolean[] cur = new boolean[target + 1];
-            cur[0] = true; // A sum of 0 is always achievable
-            
-            for (int sum = 1; sum <= target; sum++) {
+
+        for(int ind = 1 ; ind  < n ; ind++){
+            boolean[] cur = new boolean[target+ 1];
+            cur[0] = true;
+            for(int sum = 1; sum <= target ; sum++){
+                
                 boolean pick = false; 
-                if (nums[ind] <= sum) {
-                    pick = prev[sum - nums[ind]];
-                }
+                if(nums[ind] <= sum)pick = prev[sum - nums[ind]];
+                //not pick
                 boolean notPick = prev[sum];
                 
-                cur[sum] = pick || notPick;
+                cur[sum] = pick | notPick;                
             }
-            
-            // Move to the next row
             prev = cur;
         }
-        
         return prev[target];
     }
 }
-
 /*
     public boolean canPartition(int[] nums) {
         int n = nums.length, target = 0;

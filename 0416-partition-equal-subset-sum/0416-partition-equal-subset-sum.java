@@ -4,20 +4,20 @@ class Solution {
         for(int i = 0 ; i < n ; i++) target += nums[i];
         if(target % 2 == 1) return false;
         Boolean[][] dp = new Boolean[n][target + 1];
-        return subsetPartition(n - 1, 0, target, nums, dp);
+        return subsetPartition(n - 1, target/2, nums, dp);
     }
-    private boolean subsetPartition(int ind, int sum, int tar, int[] arr, Boolean[][] dp){
+    private boolean subsetPartition(int ind, int tar, int[] arr, Boolean[][] dp){
         
-        if(tar == sum) return true;
+        if(tar == 0) return true;
         
-        if(ind < 0) return false;
+        if(ind < 0 || tar < 0) return false;
         
-        if(dp[ind][sum] != null) return dp[ind][sum];
+        if(dp[ind][tar] != null) return dp[ind][tar];
         //pick
-        boolean pick = subsetPartition(ind - 1, sum + arr[ind], tar - arr[ind], arr, dp);
+        boolean pick = subsetPartition(ind - 1, tar - arr[ind], arr, dp);
         //not pick
-        boolean notPick = subsetPartition(ind - 1, sum, tar, arr, dp);
+        boolean notPick = subsetPartition(ind - 1,tar, arr, dp);
         
-        return dp[ind][sum] = pick | notPick;
+        return dp[ind][tar] = pick | notPick;
     }    
 }

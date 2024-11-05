@@ -2,6 +2,7 @@ class Solution {
     public boolean canPartition(int[] nums) {
         int n = nums.length, target = 0;
         for(int i = 0 ; i < n ; i++) target += nums[i];
+        if(target % 2 == 1) return false;
         Boolean[][] dp = new Boolean[n][target + 1];
         return subsetPartition(n - 1, 0, target, nums, dp);
     }

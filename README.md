@@ -132,6 +132,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ishhookayy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/ishhookayy/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -203,6 +204,7 @@
 | [0079-word-search](https://github.com/ishhookayy/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/ishhookayy/LeetCode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/ishhookayy/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/ishhookayy/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Divide and Conquer
 |  |
@@ -326,6 +328,7 @@
 | [0198-house-robber](https://github.com/ishhookayy/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ishhookayy/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ishhookayy/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ishhookayy/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -434,6 +437,7 @@
 | [0231-power-of-two](https://github.com/ishhookayy/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ishhookayy/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/ishhookayy/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ishhookayy/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
@@ -470,6 +474,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Queue
 |  |
 | ------- |
@@ -482,4 +487,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ishhookayy/LeetCode/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->

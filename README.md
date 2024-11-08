@@ -133,6 +133,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/ishhookayy/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishhookayy/LeetCode/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0940-fruit-into-baskets](https://github.com/ishhookayy/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ishhookayy/LeetCode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ishhookayy/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -325,6 +326,7 @@
 | [0198-house-robber](https://github.com/ishhookayy/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ishhookayy/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ishhookayy/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/ishhookayy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/ishhookayy/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ishhookayy/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 ## Recursion

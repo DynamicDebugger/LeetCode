@@ -145,6 +145,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/ishhookayy/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ishhookayy/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishhookayy/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ishhookayy/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishhookayy/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
 |  |
@@ -398,6 +399,7 @@
 | [0200-number-of-islands](https://github.com/ishhookayy/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ishhookayy/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ishhookayy/LeetCode/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ishhookayy/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | [0547-number-of-provinces](https://github.com/ishhookayy/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/ishhookayy/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/ishhookayy/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ishhookayy/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ishhookayy/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Bucket Sort
 |  |
@@ -493,4 +496,8 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ishhookayy/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ishhookayy/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
